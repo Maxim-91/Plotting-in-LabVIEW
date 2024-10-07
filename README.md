@@ -3,6 +3,7 @@
 ![image](https://github.com/user-attachments/assets/9fb78c99-0d29-421c-a8cd-e86ca7acc54e)
 
 ### The appearance of the running program
+![image](https://github.com/user-attachments/assets/5afd196f-5db7-4214-95a6-f58bbe799401)
 
 ## Sin обр.vi - Numeric from 0 to 1 floating point truncates sin.
 ### Code
