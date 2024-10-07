@@ -12,3 +12,6 @@
 ![image](https://github.com/user-attachments/assets/3d974490-dd20-4f52-ba66-be8466cc2ae9)
 
 ### The appearance of the running program
+![image](https://github.com/user-attachments/assets/52d0ac8c-1b92-4414-bc84-54637f9af3b9)
+![image](https://github.com/user-attachments/assets/416a8c31-b1bf-4945-aa24-f9a43803f241)
+![image](https://github.com/user-attachments/assets/ff342598-fc7f-4b83-8b94-8bf59338fb8e)
